@@ -1,6 +1,6 @@
 # Data Science 
 
-#### Technical Skills: Python (Progamming language), Data Query (SQL, PostGreSQL, NoSQL), Big Data Framework (Hadoop, Spark), Data Visualization (Tableau, PowerBI), Machine Learning (Regression, Classification, Clustering), Deep Learning (Pytorch, Keras), Text Mining
+#### Technical Skills: *Python (Progamming language), Data Query (SQL, PostGreSQL, NoSQL), Big Data Framework (Hadoop, Spark), Data Visualization (Tableau, PowerBI), Machine Learning (Regression, Classification, Clustering), Deep Learning (Pytorch, Keras), Text Mining*
 
 ## Education			        		
 - B.S., Electronics Commerce | University of Economics Ho Chi Minh City (UEH)
